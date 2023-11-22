@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+cliffdemo/main.py
+cliffdemo.egg-info/PKG-INFO
+cliffdemo.egg-info/SOURCES.txt
+cliffdemo.egg-info/dependency_links.txt
+cliffdemo.egg-info/entry_points.txt
+cliffdemo.egg-info/top_level.txt
+cliffdemo/cmd/simple.py
+cliffdemo/files/v1/list.py
+cliffdemo/files/v1/show.py

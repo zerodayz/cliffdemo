@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cliffdemo
+Version: 0.0.2
+Summary: cliffdemo CLI client
+Author: Robin Černín
+Author-email: cerninr@gmail.com
+Keywords: cliffdemo
+
+# cliff
